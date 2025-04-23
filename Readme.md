@@ -61,8 +61,7 @@ public class Rotate : MonoBehaviour
 ```
 ## Output:
 
-![image](https://github.com/user-attachments/assets/ef36adcf-83b7-414d-9839-932792cf9db7)
-
+![alt text](image.png)
 
 ## Result:
 The 3D application for rotating the gaming objects in unity is executed sucessfully.
